@@ -1,4 +1,4 @@
-### 2. **Student Performance Analytics** (`proj_week4.ipynb`)
+###  **Student Performance Analytics** 
 Educational data analysis project analyzing student academic performance, attendance, and overall academic health.
 
 #### Features:
